@@ -23,7 +23,7 @@ This project uses a weather API to inform us of the weather internationally.
 
 ```bash
 pip install -r requirements.txt
-
+```
 6. Run:
 
 ```bash
