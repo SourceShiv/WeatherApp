@@ -29,3 +29,5 @@ pip install -r requirements.txt
 
 ```bash
 python main.py
+```
+Tested on Python 3.11.9
