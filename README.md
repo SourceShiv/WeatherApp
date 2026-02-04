@@ -11,6 +11,7 @@ This project uses a weather API to inform us of the weather internationally.
 
 ## Tech stack
 - Python
+- Python requests library
 - WeatherAPI
 
 ## How to Run
